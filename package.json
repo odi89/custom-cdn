@@ -1,0 +1,28 @@
+{
+  "name": "webpack-project-config",
+  "version": "1.0.0",
+  "description": "Component as Rest ap",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "webpack serve",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odi89/webpack-config-component.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Melbye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odi89/webpack-config-component/issues"
+  },
+  "homepage": "https://github.com/odi89/webpack-config-component#readme",
+  "devDependencies": {
+    "webpack": "^5.22.0",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
