@@ -4,7 +4,7 @@ import ChatBubble from "./ChatBubble"
 import NudgeContainer from "./NudgeContainer"
 import Hello from "../nudges/Hello"
 
-const App = () => {
+export const App = () => {
     return (
         <>
             <Nav />
