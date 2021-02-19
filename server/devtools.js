@@ -1,6 +1,6 @@
 const { exec } = require("child_process");
 function createRepo() {
-    exec("ls -la", (error, stdout, stderr) => {
+    exec("hub create", (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
             return;
