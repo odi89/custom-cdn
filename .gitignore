@@ -1,8 +1,7 @@
 *
-/*
+
 
 # Whitelist some files
-.gitignore
 !README.md
 !clients/*
 # Ignore all files named .DS_Store or ending with .log
