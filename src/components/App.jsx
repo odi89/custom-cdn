@@ -1,16 +1,18 @@
 import "../styles/index.scss"
-import Recipies from "./Recipies"
+import Nav from "./Nav"
+import ChatBubble from "./ChatBubble"
+import NudgeContainer from "./NudgeContainer"
+import Hello from "../nudges/Hello"
+
 const App = () => {
     return (
         <>
-            <section className="hero">
-                <main>
-                    <section>
-                        <h1>Oh Hai, React</h1>
-                    </section>
-                </main>
-                <Recipies />
-            </section>
+            <Nav />
+            <ChatBubble />
+            <NudgeContainer>
+                <Hello />
+            </NudgeContainer>
+
         </>
     )
 }
