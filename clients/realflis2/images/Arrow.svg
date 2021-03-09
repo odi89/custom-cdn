@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="66px" viewBox="0 0 71 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3FDA6748-1F16-407C-9D0F-60EC022A64CA@0x</title>
+    <defs>
+        <filter x="-4.8%" y="-18.0%" width="109.6%" height="137.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.304159951 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flisekampanje_desktop_open" transform="translate(-701.000000, -535.000000)">
+            <g id="onsite" filter="url(#filter-1)" transform="translate(0.000000, 528.000000)">
+                <g id="Arrow_medium_rounded" transform="translate(730.000000, 30.000000)" filter="url(#filter-2)">
+                    <g transform="translate(6.500000, 10.500000) rotate(90.000000) translate(-6.500000, -10.500000) ">
+                        <path d="M6.37220999,7.45819329 C7.18257547,7.45580091 7.8414459,8.11079251 7.84383829,8.92115799 C7.84384682,8.92404585 7.84384682,8.92693373 7.84383829,8.92982159 L7.81008497,20.3629742 C7.80767426,21.1795445 7.14631211,21.8409067 6.32974176,21.8433174 C5.51937628,21.8457098 4.86050585,21.1907182 4.85811346,20.3803527 C4.85810494,20.3774648 4.85810494,20.374577 4.85811346,20.3716891 L4.89186679,8.9385365 C4.8942775,8.12196615 5.55563965,7.460604 6.37220999,7.45819329 Z" id="Rectangle" fill="#000000" fill-rule="nonzero" transform="translate(6.350976, 14.650755) rotate(-135.000000) translate(-6.350976, -14.650755) "></path>
+                        <path d="M6.34825231,-0.595650606 C7.16002804,-0.593254055 7.81750691,0.0642248113 7.81990346,0.87600054 L7.85360634,12.2920643 C7.85598468,13.0976716 7.20483895,13.7526734 6.39923166,13.7550517 C6.39636075,13.7550602 6.39348983,13.7550602 6.39061893,13.7550517 C5.5788432,13.7526552 4.92136433,13.0951763 4.91896778,12.2834006 L4.8852649,0.867336804 C4.88288656,0.0617295087 5.53403229,-0.593272266 6.33963958,-0.595650606 C6.34251049,-0.595659081 6.34538141,-0.595659081 6.34825231,-0.595650606 Z" id="Rectangle" fill="#000000" fill-rule="nonzero" transform="translate(6.369436, 6.579701) rotate(-45.000000) translate(-6.369436, -6.579701) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
