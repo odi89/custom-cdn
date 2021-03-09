@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="68px" viewBox="0 0 57 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3032C2B5-B6B3-42C2-8F47-CF4F759F36AE@0x</title>
+    <defs>
+        <filter x="-15.8%" y="-16.5%" width="131.6%" height="128.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.304159951 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flisekampanje_mobile" transform="translate(-317.000000, -159.000000)" fill="#000000">
+            <g id="onsite" filter="url(#filter-1)" transform="translate(0.000000, 170.000000)">
+                <g id="Close_medium_rounded-Copy" transform="translate(343.000000, 15.000000)">
+                    <path d="M7.78947368,-1.68421053 C8.37082605,-1.68421053 8.84210526,-1.21293132 8.84210526,-0.631578947 L8.84210526,16.6315789 C8.84210526,17.2129313 8.37082605,17.6842105 7.78947368,17.6842105 C7.20812132,17.6842105 6.73684211,17.2129313 6.73684211,16.6315789 L6.73684211,-0.631578947 C6.73684211,-1.21293132 7.20812132,-1.68421053 7.78947368,-1.68421053 Z" id="Rectangle" transform="translate(7.789474, 8.000000) rotate(-315.000000) translate(-7.789474, -8.000000) "></path>
+                    <path d="M7.78947368,-1.68421053 C8.37082605,-1.68421053 8.84210526,-1.21293132 8.84210526,-0.631578947 L8.84210526,16.6315789 C8.84210526,17.2129313 8.37082605,17.6842105 7.78947368,17.6842105 C7.20812132,17.6842105 6.73684211,17.2129313 6.73684211,16.6315789 L6.73684211,-0.631578947 C6.73684211,-1.21293132 7.20812132,-1.68421053 7.78947368,-1.68421053 Z" id="Rectangle" transform="translate(7.789474, 8.000000) scale(1, -1) rotate(-315.000000) translate(-7.789474, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
